@@ -1,4 +1,0 @@
-SportImage
-==========
-
-Lab 3
